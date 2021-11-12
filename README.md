@@ -4,9 +4,9 @@
 ## 上推特需要用到的工具 ##
 既然上推特Twitter需要用到[翻墙梯子工具](https://github.com/Tonyforfun94/best-vpn)，那么有哪些好用的工具可以让我们轻松访问推特呢?
 
-博主一直使用[云居亭](https://oplktunm.com/auth/register?code=GIPS)这款翻墙加速器，这个工具VPN非常好用，并且性价比非常高。是很多外贸人员，IT技术员使用的工具。
+博主一直使用[云居亭](https://yunjuting.com/auth/register?code=GIPS)这款翻墙加速器，这个工具VPN非常好用，并且性价比非常高。是很多外贸人员，IT技术员使用的工具。
 
-云居亭官网:[点击链接](https://oplktunm.com/auth/register?code=GIPS)
+云居亭官网:[点击链接](https://yunjuting.com/auth/register?code=GIPS)
 
 ## 推特Twitter是什么 ##
 推特是一款社交软件，在全世界大部分国家都可以使用。在推特上，我们可以关注很多明星，政治人物等等。其中，最著名的就是杜兰特，特朗普。他们都是使用推特发布动态，并且他们的推特是非常火的，很多人都关注他们。
